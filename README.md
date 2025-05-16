@@ -72,10 +72,7 @@ EN CASO DE DETENERSE EN TERMUX
 
 ```bash
 cd K-iserv.2
-
-
-```bash 
-Npm start
+npm start
 
 
 
