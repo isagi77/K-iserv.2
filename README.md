@@ -73,7 +73,6 @@ npm start
 ```bash
 cd K-iserv.2
 
-
 ```bash
 Npm start
 > **Si después de poner el numero de WhatsApp, y sale letras en roja no se preocupe es normal**
