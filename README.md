@@ -1,6 +1,6 @@
-# **Black clover IA - El Mejor bot de WhatsApp**
+# **᭄𝐾á𝑖𝑠𝑒𝑟𝑣.2 - El Mejor bot de WhatsApp**
 
-¡Prepárate para llevar tu experiencia en WhatsApp al siguiente nivel! **Black-clover-MD** es un bot multiusos, rápido, poderoso y 100% personalizable. Desde comandos divertidos hasta herramientas de moderación, este bot lo tiene *TODO*.
+¡Prepárate para llevar tu experiencia en WhatsApp al siguiente nivel! **kaiser-v.2-MD** es un bot multiusos, rápido, poderoso y 100% personalizable. Desde comandos divertidos hasta herramientas de moderación, este bot lo tiene *TODO*.
 
 **Características insanas:**
 - Sistema de comandos con respuesta ultra rápida  
@@ -58,7 +58,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/thecarlos19/black-clover-MD&& cd black-clover-MD
+git clone https://github.com/thecarlos19/kaiser-clover-MD&& cd kaiser-clover-MD
 ```
 
 ```bash
@@ -80,11 +80,11 @@ npm start
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
 | 🍃 **WhatsApp** | 𝐂𝐚𝐧𝐚𝐥 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Aquí!](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w) |
-| 🍃 **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Aquí!](https://chat.whatsapp.com/GrcUknwrJbNIXIIrbsuXc0) |
+| 🍃 **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Aquí!](https://chat.whatsapp.com/K92RptV6aP5LaHOUG2JcrU |
 
 
 
 ## `𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 𝑫𝒆𝒍 𝑩𝒐𝒕` 
 <a href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/></a>
 
-[© Powered By the-legends ⚡︎](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
+[© Powered By harvak ⚡︎](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
