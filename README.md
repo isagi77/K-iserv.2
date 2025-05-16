@@ -68,6 +68,14 @@ yarn install && npm install
 ```bash
 npm start
 ```
+       EN CASO DE DETENERSE EN TERMUX
+
+```bash
+cd K-iserv.2
+
+
+```bash
+Npm start
 > **Si después de poner el numero de WhatsApp, y sale letras en roja no se preocupe es normal**
 
 </details>
