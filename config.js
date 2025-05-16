@@ -17,13 +17,13 @@ global.botNumber = '' //Ejemplo: 525218138672
 
 global.owner = [
   ['573015270038', '🜲 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 KING👑', true],
-  ['5217971278937']
+  ['5491156178758']
 ];
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['5215211111111'] 
+global.suittag = ['573015270038'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
@@ -41,15 +41,15 @@ global.blackJadibts = true
 
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = `᭄𝐾á𝑖𝑠𝑒𝑟𝑣.2 ☘`
-global.author = `♾━━━━━━━━\n⇝͟͞ 💀kaiser 𝕮𝖑𝖔𝖛𝖊𝖗💀 ☘͟ ⋆\n⇝ ۵-̱̅ⁱ𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟ `;
+global.author = `♾━━━━━━━━\n⇝͟͞ 💀kaiser 𝕮𝖑𝖔𝖛𝖊𝖗💀 ☘͟ ⋆\n⇝ ۵-̱̅ⁱ𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ𝕭𝐊𝐚𝐢𝐬𝐞𝐫 ☘͟ `;
 global.wm = '᭄𝐾á𝑖𝑠𝑒𝑟𝑣.2 ☘';
 global.titulowm = '᭄𝐾á𝑖𝑠𝑒𝑟𝑣.2 ☘';
-global.igfg = 'ᥫ𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
+global.igfg = 'ᥫKING'
 global.botname = '᭄𝐾á𝑖𝑠𝑒𝑟𝑣.2 ☘'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ the Legends ⚡'
-global.textbot = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹  : 𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
+global.textbot = '𝐊𝐚𝐢𝐬𝐞𝐫  : KING'
 global.gt = '͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟͞';
-global.namechannel = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹 / 𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
+global.namechannel = '𝐊𝐚𝐢𝐬𝐞𝐫 / KING'
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
