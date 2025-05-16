@@ -185,8 +185,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
       },
     ];
 
-    let img = 'https://qu.ax/hEwPa.jpg';
-    await m.react('⚔️');
+    let img = 'https://files.catbox.moe/fss8a7.jpg';
+    await m.react('👑');
 
     await conn.sendMessage(
       m.chat,
