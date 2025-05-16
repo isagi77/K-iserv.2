@@ -58,7 +58,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/thecarlos19/kaiser-clover-MD&& cd kaiser-clover-MD
+git clone https://github.com/isagi77/K-iserv.2 && cd K-iserv.2
 ```
 
 ```bash
