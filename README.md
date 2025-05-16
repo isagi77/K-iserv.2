@@ -68,12 +68,7 @@ yarn install && npm install
 ```bash
 npm start
 ```
-EN CASO DE DETENERSE EN TERMUX
 
-```bash
-cd K-iserv.2
-
-      npm start
 
 
 
