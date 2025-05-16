@@ -1,6 +1,6 @@
 -----------
 
-***WELCOME  A BLACK-CLOVER PLUGINS LIST PAWER BY THE CARLOS***
+***WELCOME  ᭄𝐾á𝑖𝑠𝑒𝑟𝑣.2PLUGINS LIST PAWER BY THE Harvak++
 
 -----------
 
